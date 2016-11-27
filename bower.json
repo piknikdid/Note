@@ -1,0 +1,17 @@
+{
+  "name": "Note",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "piknikdid <piknik68@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/piknikdid/Note.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
